@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Anna Istomina](https://up.htmlacademy.ru/htmlcss/18/user/100382).
+** Наставник: [Evgeniy Boltyan]
 
 ---
 
